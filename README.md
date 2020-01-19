@@ -10,7 +10,7 @@ Simply download the python script, and run. Python3 needed.
 The script takes two inputs (not parameters), the URL from rawdevart.com of the
 page where all chapters are listed. Example: https://rawdevart.com/comic/tate-no-yuusha-no-nariagari/
 The second one is the name of the manga, which is only used for file names (can be anything you want).
-It will then create zips for every chapter. The output is located at %user%/Desktop/mangas/output/%file%.zip
+It will then create zips for every chapter. The output is located at %scriptLocation%/mangas/output/%file%.zip
 
 # It's python, make it yours!
 This wasn't something I intended to publish, so it's not very customizable...yet. If you wish for it to do
@@ -18,6 +18,5 @@ something differently, feel free to edit it to make it suit your needs. And of c
 
 # Future plans
 
-- Allow for more directories than desktop (relative).
 - Allow for more than one output format (cbr, cbz...)
 - Have more than one input site
