@@ -1,5 +1,5 @@
 # RawMangaRipper
-A small python script to download mangas from (currently only) rawdevart.com.
+A small python script to download raw, untranslated mangas from (currently only) rawdevart.com.
 The purpose of this was to be able to read raw manga on my phone (ios & android).
 While there are many available web readers, they are not really fit for a phone.
 This utility turns the web reader manga into a .zip folder, readable by many phone 
